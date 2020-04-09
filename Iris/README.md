@@ -1,4 +1,4 @@
-# 👊 Iris Classification with Keras 👊
+# 👊 Iris Classification with Keras 👊 (2019.02~2019.03)
 
 ```
 붓꽃의 꽃받침 길이 및 너비, 꽃잎의 길이 및 너비 데이터를 입력받아 꽃의 종류를 예측할 수 있는 모델 만들기!
